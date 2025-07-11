@@ -1,7 +1,3 @@
-## PROJETO-2025-MODULO-C-SENAC
-Fim de um modulo, começo de carreira 🔥🔥🔥
-
-
 # Pong Game com Sistema de Ranking 🕹️🏆
 
 Projeto simples feito em **Java**, utilizando **Swing** para a interface gráfica. O jogo é uma versão clássica do **Pong**, com sistema de pontuação e **ranking persistente** em banco de dados.
