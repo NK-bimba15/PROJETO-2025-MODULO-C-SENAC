@@ -4,7 +4,7 @@ Fim de um modulo, começo de carreira 🔥🔥🔥
 
 # Pong Game com Sistema de Ranking 🕹️🏆
 
-Projeto simples feito em **Java**, utilizando **Swing** para a interface gráfica. O jogo é uma versão clássica do **Pong**, com sistema de pontuação e **ranking persistente** em banco de dados (SQLite ou outro JDBC compatível).
+Projeto simples feito em **Java**, utilizando **Swing** para a interface gráfica. O jogo é uma versão clássica do **Pong**, com sistema de pontuação e **ranking persistente** em banco de dados.
 
 ## 🎮 Objetivo
 
@@ -18,8 +18,8 @@ Controlar uma barra (paddle) e rebater a bolinha o maior tempo possível. A cada
 -  Interface gráfica com Java Swing
 -  Sistema de pontuação automática
 -  Tela de menu principal
--  Ranking persistente com nome e score
--  Armazenamento em banco de dados via JDBC
+-  Ranking persistente com score
+-  Armazenamento em banco de dados
 
 ---
 
@@ -62,5 +62,5 @@ Adicione aqui imagens do menu, do jogo rodando e da tela de ranking.
 Desenvolvido por Nick K.
 Com inspiração no documento do Jogo da Forca por Luís Guilherme de S Lopes.
 
-##📜 Licença
-Este projeto está sob a licença SENAC.
+## 📜 Licença
+Este projeto está sob a supervisão de professor Luís Guilherme de S Lopes, institudo SENAC 2025.
