@@ -1,0 +1,10 @@
+CREATE DATABASE pong;
+
+USE pong;
+
+CREATE TABLE pontuacoes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    jogador1 INT NOT NULL,
+    jogador2 INT NOT NULL,
+    data_partida TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
