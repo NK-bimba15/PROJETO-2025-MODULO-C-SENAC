@@ -51,16 +51,19 @@ Controlar uma barra (paddle) e rebater a bolinha o maior tempo possível. A cada
 -  Certifique-se de que o driver JDBC está disponível.
 -  Compile e execute a classe Main.java.
 
+---
+
 
 ## 🏅 Ranking
 A pontuação é salva automaticamente ao fim de cada partida. Os melhores scores são exibidos na tela de ranking.
 
-## 📸 Prints do Jogo (opcional)
-Adicione aqui imagens do menu, do jogo rodando e da tela de ranking.
+---
 
 ## 🙌 Créditos
 Desenvolvido por Nick K.
 Com inspiração no documento do Jogo da Forca por Luís Guilherme de S Lopes.
+
+---
 
 ## 📜 Licença
 Este projeto está sob a supervisão de professor Luís Guilherme de S Lopes, institudo SENAC 2025.
